@@ -9,28 +9,28 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## My Certificate
+## My Certificates
 1. Deep Learning Specialization
   - https://coursera.org/verify/specialization/WEMWFNQGX52P
 
-### Google Data Analytics Professional Certificate
-- https://coursera.org/verify/specialization/Y9HXEPWUZTV6
+2. Google Data Analytics Professional Certificate
+  - https://coursera.org/verify/specialization/Y9HXEPWUZTV6
 
-### Mathematics for Machine Learning Specialization
-- https://coursera.org/verify/specialization/93DKJPJ16IHU
+3. Mathematics for Machine Learning Specialization
+  - https://coursera.org/verify/specialization/93DKJPJ16IHU
 
-### Mathematics for Machine Learning and Data Science Specialization
-- https://coursera.org/verify/specialization/05UNFQ3213U9
+4. Mathematics for Machine Learning and Data Science Specialization
+  - https://coursera.org/verify/specialization/05UNFQ3213U9
 
-### Machine Learning Specialization
-- https://coursera.org/verify/specialization/MB42HSUCSKOY
+5. Machine Learning Specialization
+  - https://coursera.org/verify/specialization/MB42HSUCSKOY
 
-### IBM Data Engineering Professional Certificate
-- https://coursera.org/verify/specialization/WFXJJSWXCJ5C
+6. IBM Data Engineering Professional Certificate
+  - https://coursera.org/verify/specialization/WFXJJSWXCJ5C
 
-### NoSQL, Big Data, and Spark Foundations Specialization
-- https://coursera.org/verify/specialization/XV67FLU3JSU6
+7. NoSQL, Big Data, and Spark Foundations Specialization
+  - https://coursera.org/verify/specialization/XV67FLU3JSU6
 
-### Google Advanced Data Analytics Professional Certificate
-- https://coursera.org/verify/specialization/JTK4U3DE8D9M
+8. Google Advanced Data Analytics Professional Certificate
+  - https://coursera.org/verify/specialization/JTK4U3DE8D9M
 
