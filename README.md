@@ -10,8 +10,8 @@
 - ⚡ Fun fact: ...
 
 ## My Certificate
-### Deep Learning Specialization
-- https://coursera.org/verify/specialization/WEMWFNQGX52P
+1. Deep Learning Specialization
+  - https://coursera.org/verify/specialization/WEMWFNQGX52P
 
 ### Google Data Analytics Professional Certificate
 - https://coursera.org/verify/specialization/Y9HXEPWUZTV6
