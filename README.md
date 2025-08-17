@@ -14,24 +14,29 @@
      - https://coursera.org/verify/specialization/WEMWFNQGX52P
 
 2. Machine Learning Specialization
-    - https://coursera.org/verify/specialization/MB42HSUCSKOY
+     - https://coursera.org/verify/specialization/MB42HSUCSKOY
 
 3. Google Advanced Data Analytics Professional Certificate
-    - https://coursera.org/verify/specialization/JTK4U3DE8D9M
+     - https://coursera.org/verify/specialization/JTK4U3DE8D9M
 
 4. Google Data Analytics Professional Certificate
-    - https://coursera.org/verify/specialization/Y9HXEPWUZTV6
+     - https://coursera.org/verify/specialization/Y9HXEPWUZTV6
 
 5. Mathematics for Machine Learning Specialization
-    - https://coursera.org/verify/specialization/93DKJPJ16IHU
+     - https://coursera.org/verify/specialization/93DKJPJ16IHU
 
 6. Mathematics for Machine Learning and Data Science Specialization
-    - https://coursera.org/verify/specialization/05UNFQ3213U9
+     - https://coursera.org/verify/specialization/05UNFQ3213U9
 
 7. IBM Data Engineering Professional Certificate
-    - https://coursera.org/verify/specialization/WFXJJSWXCJ5C
+     - https://coursera.org/verify/specialization/WFXJJSWXCJ5C
 
 8. NoSQL, Big Data, and Spark Foundations Specialization
-    - https://coursera.org/verify/specialization/XV67FLU3JSU6
+     - https://coursera.org/verify/specialization/XV67FLU3JSU6
 
+9. IBM Data Warehouse Engineer Professional Certificate
+     - https://coursera.org/verify/specialization/B8UJ3ZJWFA9J
+
+11. Data Engineering Foundations Specialization
+     - https://coursera.org/verify/specialization/PDVBUR8CUJM2
 
