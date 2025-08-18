@@ -9,7 +9,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
----
 ## My Certificates
 1. [Deep Learning Specialization](https://coursera.org/verify/specialization/WEMWFNQGX52P)
 2. [Machine Learning Specialization](https://coursera.org/verify/specialization/MB42HSUCSKOY)
